@@ -1,0 +1,1 @@
+Projeto atualmente inativo para a disciplina de Estrutura da Matéria da UFABC. Consistiu em desenvolver um bot para Telegram que respondesse determinadas perguntas a respeito da vida de Max Planck, fornecendo respostas em primeira pessoa de forma a simular uma interação do usuário com o próprio Max Planck.
